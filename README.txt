@@ -1,8 +1,7 @@
 This project is going to pick up horse manure for me in the pasture. I saw a random company that picked up dog poop and figured I could make that but for horses. I'll be adding a BOM and 
 some basic information and will be building on this as I go along. I will soon be making a GitHub Repository for this project as well.
 
-What I'm looking to make overall is a robot that is able to navigate our 2.5 acre pasture, and a secondary location for the sacrifice area as well for the winter months. It will have
-to be able to maneuver a mostly empty field but with a few obstacules:
+What I'm looking to make overall is a robot that is able to navigate our 2.5 acre pasture and pick up horse manure.There is also a secondary location for the sacrifice area as well for the winter months. It will have to be able to maneuver a mostly empty field but with a few obstacules:
 
 1. Here up in Washington state we get a lot of rain, so the electronics will need to be sealed.
 2. Did I mention it rains a lot? Well that also means part of our pasture has water about 12-18" deep.
