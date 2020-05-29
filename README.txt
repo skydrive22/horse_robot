@@ -1,6 +1,4 @@
-WELL WELL WELL, so I invited you to take a look at my Horse Manure robot. Congradulations, you should feel pretty good about yourself and absolutely should feel honored to be helping me out.
-
-Anyways, this project is going to pick up horse manure for me in the pasture. I saw a random company that picked up dog poop and figured I could make that but for horses. I'll be adding 
+This project is going to pick up horse manure for me in the pasture. I saw a random company that picked up dog poop and figured I could make that but for horses. I'll be adding 
 a BOM and some basic information and will be building on this as I go along. I will soon be making a GitHub Repository for this project as well.
 
 What I'm looking to make overall is a robot that is able to navigate our 2.5 acre pasture, and a secondary location for the sacrifice area as well for the winter months. It will have
